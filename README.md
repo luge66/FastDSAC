@@ -20,7 +20,6 @@ FastDSAC retains the stochastic actor and distributional twin critics of DSAC wh
 
 ```text
 FastDSAC/
-├── data/
 ├── fast_dsac/
 │   ├── environments/
 │   │   ├── humanoid_bench_env.py
@@ -32,8 +31,7 @@ FastDSAC/
 │   ├── fastdsac_net.py
 │   ├── fastdsac.py
 │   ├── hyperparams.py
-│   ├── train_multigpu.py
-│   └── training_notebook.ipynb
+│   └── train_multigpu.py
 ├── log/
 ├── models/
 ├── requirements/
