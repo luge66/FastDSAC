@@ -38,8 +38,7 @@ FastDSAC/
 ├── models/
 ├── requirements/
 ├── README.md
-├── setup.py
-└── sim2real.md
+└── setup.py
 ```
 
 ## Installation
